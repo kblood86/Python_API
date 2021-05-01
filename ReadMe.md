@@ -12,8 +12,6 @@ This section starts by selecting 1500 unique cities based on their latitude and 
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
-!!!!!!!After each plot, add a sentence or two explaining what the code is analyzing.
-
 Then the cities are sorted into their respective hemisphere and a linear regression is run on the following relationships: 
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
