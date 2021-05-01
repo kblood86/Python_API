@@ -41,5 +41,5 @@ The cities are then narrowed down to find the ideal weather condition:
 
 Google Places API is then used to find the first hotel for each city located within 5000 meters of your coordinates.
 
-These hotels are plotted the hotels on top of the humidity heatmap. The pin includes the hotel name, 
+These hotels are plotted the hotels on top of the humidity heatmap. The pin includes the Hotel name, City and Country. 
 
