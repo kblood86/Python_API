@@ -1,4 +1,4 @@
-# Python_API
+# Best Vacation Spot
 
 This assignment has two parts. Part one looks at cities and their weather based on their location. Part two expands on part one and determines the best vacation spot of these locations and where to stay! 
 
